@@ -1,0 +1,706 @@
+managed-keys-zone: loaded serial 0
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './DNSKEY/IN': 2801:1b8:10::b#53
+managed-keys-zone: Initializing automatic trust anchor management for zone '.'; DNSKEY ID 20326 is now trusted, waiving the normal 30-day waiting period.
+managed-keys-zone: Initializing automatic trust anchor management for zone '.'; DNSKEY ID 38696 is now trusted, waiving the normal 30-day waiting period.
+resolver priming query complete
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on ::1#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+exiting
+managed-keys-zone: loaded serial 2
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+managed-keys-zone: Key 38696 for zone . is now trusted (acceptance timer complete)
+resolver priming query complete
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on ::1#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+exiting
+managed-keys-zone: loaded serial 3
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 10.168.192.in-addr.arpa/IN: loaded serial 10
+zone localhost.localdomain/IN: loaded serial 0
+zone example.com/IN: loaded serial 10
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+connection refused resolving './NS/IN': 192.168.10.10#53
+resolver priming query complete
+connection refused resolving './DNSKEY/IN': 192.168.10.10#53
+managed-keys-zone: Unable to fetch DNSKEY set '.': failure
+connection refused resolving 'ns1.com/AAAA/IN': 192.168.10.10#53
+no longer listening on 192.168.10.20#53
+no longer listening on fe80::a10c:6fc8:688:d988%2#53
+listening on IPv4 interface ens160, 192.168.10.20#53
+listening on IPv6 interface ens160, fe80::a10c:6fc8:688:d988%2#53
+managed-keys-zone: Unable to fetch DNSKEY set '.': failure
+resolver priming query complete
+managed-keys-zone: loaded serial 5
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 10.168.192.in-addr.arpa/IN: loaded serial 10
+zone localhost.localdomain/IN: loaded serial 0
+listening on IPv4 interface ens160, 192.168.10.20#53
+listening on IPv4 interface ens192, 172.16.6.218#53
+listening on IPv6 interface ens160, fe80::a10c:6fc8:688:d988%2#53
+listening on IPv6 interface ens192, fe80::52c8:74f4:1bf0:5b33%3#53
+zone example.com/IN: loaded serial 10
+resolver priming query complete
+zone localhost/IN: loaded serial 0
+managed-keys-zone: Unable to fetch DNSKEY set '.': failure
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+all zones loaded
+running
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on ::1#53
+no longer listening on 192.168.10.20#53
+no longer listening on 172.16.6.218#53
+no longer listening on fe80::a10c:6fc8:688:d988%2#53
+no longer listening on fe80::52c8:74f4:1bf0:5b33%3#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+exiting
+managed-keys-zone: loaded serial 6
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone example.com/IN: loaded serial 10
+zone 10.168.192.in-addr.arpa/IN: loaded serial 10
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+resolver priming query complete
+managed-keys-zone: Unable to fetch DNSKEY set '.': failure
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.10.20#53
+no longer listening on 172.16.6.218#53
+no longer listening on ::1#53
+no longer listening on fe80::a10c:6fc8:688:d988%2#53
+no longer listening on fe80::52c8:74f4:1bf0:5b33%3#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+exiting
+managed-keys-zone: loaded serial 7
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone 10.168.192.in-addr.arpa/IN: loaded serial 10
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone example.com/IN: loaded serial 10
+all zones loaded
+running
+resolver priming query complete
+managed-keys-zone: Unable to fetch DNSKEY set '.': failure
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.10.20#53
+no longer listening on 172.16.6.218#53
+no longer listening on ::1#53
+no longer listening on fe80::a10c:6fc8:688:d988%2#53
+no longer listening on fe80::52c8:74f4:1bf0:5b33%3#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+exiting
+managed-keys-zone: loaded serial 8
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone example.com/IN: loaded serial 10
+zone 10.168.192.in-addr.arpa/IN: loaded serial 10
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Unable to fetch DNSKEY set '.': failure
+resolver priming query complete
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.10.20#53
+no longer listening on 172.16.6.218#53
+no longer listening on ::1#53
+no longer listening on fe80::a10c:6fc8:688:d988%2#53
+no longer listening on fe80::52c8:74f4:1bf0:5b33%3#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+exiting
+managed-keys-zone: loaded serial 9
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone example.com/IN: loaded serial 10
+zone 10.168.192.in-addr.arpa/IN: loaded serial 10
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Unable to fetch DNSKEY set '.': failure
+resolver priming query complete
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.10.20#53
+no longer listening on 172.16.6.218#53
+no longer listening on ::1#53
+no longer listening on fe80::a10c:6fc8:688:d988%2#53
+no longer listening on fe80::52c8:74f4:1bf0:5b33%3#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+exiting
+managed-keys-zone: loaded serial 10
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone example.com/IN: loaded serial 10
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 10.168.192.in-addr.arpa/IN: loaded serial 10
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+resolver priming query complete
+managed-keys-zone: Unable to fetch DNSKEY set '.': failure
+resolver priming query complete
+resolver priming query complete
+resolver priming query complete
+managed-keys-zone: Unable to fetch DNSKEY set '.': failure
+resolver priming query complete
+managed-keys-zone: Unable to fetch DNSKEY set '.': failure
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.10.20#53
+no longer listening on 172.16.6.218#53
+no longer listening on ::1#53
+no longer listening on fe80::a10c:6fc8:688:d988%2#53
+no longer listening on fe80::52c8:74f4:1bf0:5b33%3#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+exiting
+managed-keys-zone: loaded serial 12
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 10.168.192.in-addr.arpa/IN: loaded serial 10
+zone localhost.localdomain/IN: loaded serial 0
+zone 10.168.192.in-addr.arpa/IN: sending notifies (serial 10)
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone example.com/IN: loaded serial 10
+zone example.com/IN: sending notifies (serial 10)
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+resolver priming query complete
+managed-keys-zone: Unable to fetch DNSKEY set '.': failure
+client @0x7f0d8001a488 192.168.10.30#50083 (10.168.192.in-addr.arpa): transfer of '10.168.192.in-addr.arpa/IN': AXFR started (serial 10)
+client @0x7f0d8001a488 192.168.10.30#50083 (10.168.192.in-addr.arpa): transfer of '10.168.192.in-addr.arpa/IN': AXFR ended: 1 messages, 6 records, 199 bytes, 0.001 secs (199000 bytes/sec) (serial 10)
+client @0x7f0da2ad04a8 192.168.10.30#51303 (example.com): transfer of 'example.com/IN': AXFR started (serial 10)
+client @0x7f0da2ad04a8 192.168.10.30#51303 (example.com): transfer of 'example.com/IN': AXFR ended: 1 messages, 14 records, 327 bytes, 0.001 secs (327000 bytes/sec) (serial 10)
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.10.20#53
+no longer listening on 172.16.6.218#53
+no longer listening on ::1#53
+no longer listening on fe80::a10c:6fc8:688:d988%2#53
+no longer listening on fe80::52c8:74f4:1bf0:5b33%3#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+exiting
+managed-keys-zone: loaded serial 13
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 10.168.192.in-addr.arpa/IN: loaded serial 10
+zone localhost.localdomain/IN: loaded serial 0
+zone 10.168.192.in-addr.arpa/IN: sending notifies (serial 10)
+zone localhost/IN: loaded serial 0
+zone example.com/IN: loaded serial 10
+all zones loaded
+zone example.com/IN: sending notifies (serial 10)
+running
+managed-keys-zone: Unable to fetch DNSKEY set '.': failure
+resolver priming query complete
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.10.20#53
+no longer listening on 172.16.6.218#53
+no longer listening on ::1#53
+no longer listening on fe80::a10c:6fc8:688:d988%2#53
+no longer listening on fe80::52c8:74f4:1bf0:5b33%3#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+exiting
+managed-keys-zone: loaded serial 14
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 10.168.192.in-addr.arpa/IN: loaded serial 10
+zone 10.168.192.in-addr.arpa/IN: sending notifies (serial 10)
+zone example.com/IN: loaded serial 10
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone example.com/IN: sending notifies (serial 10)
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+resolver priming query complete
+managed-keys-zone: Unable to fetch DNSKEY set '.': failure
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.10.20#53
+no longer listening on 172.16.6.218#53
+no longer listening on ::1#53
+no longer listening on fe80::a10c:6fc8:688:d988%2#53
+no longer listening on fe80::52c8:74f4:1bf0:5b33%3#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+exiting
+managed-keys-zone: loaded serial 15
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone example.com/IN: loaded serial 10
+zone example.com/IN: sending notifies (serial 10)
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 10.168.192.in-addr.arpa/IN: loaded serial 10
+all zones loaded
+zone 10.168.192.in-addr.arpa/IN: sending notifies (serial 10)
+running
+managed-keys-zone: Unable to fetch DNSKEY set '.': failure
+resolver priming query complete
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.10.20#53
+no longer listening on 172.16.6.218#53
+no longer listening on ::1#53
+no longer listening on fe80::a10c:6fc8:688:d988%2#53
+no longer listening on fe80::52c8:74f4:1bf0:5b33%3#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+exiting
+managed-keys-zone: loaded serial 16
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone 10.168.192.in-addr.arpa/IN: loaded serial 10
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 10.168.192.in-addr.arpa/IN: sending notifies (serial 10)
+zone example.com/IN: loaded serial 11
+zone example.com/IN: sending notifies (serial 11)
+all zones loaded
+running
+resolver priming query complete
+managed-keys-zone: Unable to fetch DNSKEY set '.': failure
+client @0x7f4bf40055b8 192.168.10.30#38249 (example.com): transfer of 'example.com/IN': AXFR-style IXFR started (serial 11)
+client @0x7f4bf40055b8 192.168.10.30#38249 (example.com): transfer of 'example.com/IN': AXFR-style IXFR ended: 1 messages, 16 records, 370 bytes, 0.001 secs (370000 bytes/sec) (serial 11)
+managed-keys-zone: loaded serial 17
+zone 0.in-addr.arpa/IN: loaded serial 0
+listening on IPv4 interface ens160, 192.168.10.20#53
+listening on IPv4 interface ens192, 172.16.6.218#53
+listening on IPv6 interface ens160, fe80::a10c:6fc8:688:d988%2#53
+listening on IPv6 interface ens192, fe80::52c8:74f4:1bf0:5b33%3#53
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone example.com/IN: loaded serial 11
+resolver priming query complete
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 10.168.192.in-addr.arpa/IN: loaded serial 10
+all zones loaded
+managed-keys-zone: Unable to fetch DNSKEY set '.': failure
+zone example.com/IN: sending notifies (serial 11)
+running
+zone 10.168.192.in-addr.arpa/IN: sending notifies (serial 10)
+resolver priming query complete
+resolver priming query complete
+resolver priming query complete
+resolver priming query complete
+resolver priming query complete
+resolver priming query complete
+resolver priming query complete
+resolver priming query complete
+resolver priming query complete
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on ::1#53
+no longer listening on 192.168.10.20#53
+no longer listening on 172.16.6.218#53
+no longer listening on fe80::a10c:6fc8:688:d988%2#53
+no longer listening on fe80::52c8:74f4:1bf0:5b33%3#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+exiting
+managed-keys-zone: loaded serial 18
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone example.com/IN: loaded serial 11
+zone localhost.localdomain/IN: loaded serial 0
+zone 10.168.192.in-addr.arpa/IN: loaded serial 10
+zone example.com/IN: sending notifies (serial 11)
+zone 10.168.192.in-addr.arpa/IN: sending notifies (serial 10)
+zone localhost/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+all zones loaded
+running
+resolver priming query complete
+managed-keys-zone: Unable to fetch DNSKEY set '.': failure
+received control channel command 'reload'
+loading configuration from '/etc/named.conf'
+unable to open '/etc/bind.keys'; using built-in keys instead
+looking for GeoIP2 databases in '/usr/share/GeoIP'
+using default UDP/IPv4 port range: [32768, 60999]
+using default UDP/IPv6 port range: [32768, 60999]
+sizing zone task pool based on 8 zones
+none:90: 'max-cache-size 90%' - setting to 6883MB (out of 7648MB)
+automatic empty zone: 10.IN-ADDR.ARPA
+automatic empty zone: 16.172.IN-ADDR.ARPA
+automatic empty zone: 17.172.IN-ADDR.ARPA
+automatic empty zone: 18.172.IN-ADDR.ARPA
+automatic empty zone: 19.172.IN-ADDR.ARPA
+automatic empty zone: 20.172.IN-ADDR.ARPA
+automatic empty zone: 21.172.IN-ADDR.ARPA
+automatic empty zone: 22.172.IN-ADDR.ARPA
+automatic empty zone: 23.172.IN-ADDR.ARPA
+automatic empty zone: 24.172.IN-ADDR.ARPA
+automatic empty zone: 25.172.IN-ADDR.ARPA
+automatic empty zone: 26.172.IN-ADDR.ARPA
+automatic empty zone: 27.172.IN-ADDR.ARPA
+automatic empty zone: 28.172.IN-ADDR.ARPA
+automatic empty zone: 29.172.IN-ADDR.ARPA
+automatic empty zone: 30.172.IN-ADDR.ARPA
+automatic empty zone: 31.172.IN-ADDR.ARPA
+automatic empty zone: 168.192.IN-ADDR.ARPA
+automatic empty zone: 64.100.IN-ADDR.ARPA
+automatic empty zone: 65.100.IN-ADDR.ARPA
+automatic empty zone: 66.100.IN-ADDR.ARPA
+automatic empty zone: 67.100.IN-ADDR.ARPA
+automatic empty zone: 68.100.IN-ADDR.ARPA
+automatic empty zone: 69.100.IN-ADDR.ARPA
+automatic empty zone: 70.100.IN-ADDR.ARPA
+automatic empty zone: 71.100.IN-ADDR.ARPA
+automatic empty zone: 72.100.IN-ADDR.ARPA
+automatic empty zone: 73.100.IN-ADDR.ARPA
+automatic empty zone: 74.100.IN-ADDR.ARPA
+automatic empty zone: 75.100.IN-ADDR.ARPA
+automatic empty zone: 76.100.IN-ADDR.ARPA
+automatic empty zone: 77.100.IN-ADDR.ARPA
+automatic empty zone: 78.100.IN-ADDR.ARPA
+automatic empty zone: 79.100.IN-ADDR.ARPA
+automatic empty zone: 80.100.IN-ADDR.ARPA
+automatic empty zone: 81.100.IN-ADDR.ARPA
+automatic empty zone: 82.100.IN-ADDR.ARPA
+automatic empty zone: 83.100.IN-ADDR.ARPA
+automatic empty zone: 84.100.IN-ADDR.ARPA
+automatic empty zone: 85.100.IN-ADDR.ARPA
+automatic empty zone: 86.100.IN-ADDR.ARPA
+automatic empty zone: 87.100.IN-ADDR.ARPA
+automatic empty zone: 88.100.IN-ADDR.ARPA
+automatic empty zone: 89.100.IN-ADDR.ARPA
+automatic empty zone: 90.100.IN-ADDR.ARPA
+automatic empty zone: 91.100.IN-ADDR.ARPA
+automatic empty zone: 92.100.IN-ADDR.ARPA
+automatic empty zone: 93.100.IN-ADDR.ARPA
+automatic empty zone: 94.100.IN-ADDR.ARPA
+automatic empty zone: 95.100.IN-ADDR.ARPA
+automatic empty zone: 96.100.IN-ADDR.ARPA
+automatic empty zone: 97.100.IN-ADDR.ARPA
+automatic empty zone: 98.100.IN-ADDR.ARPA
+automatic empty zone: 99.100.IN-ADDR.ARPA
+automatic empty zone: 100.100.IN-ADDR.ARPA
+automatic empty zone: 101.100.IN-ADDR.ARPA
+automatic empty zone: 102.100.IN-ADDR.ARPA
+automatic empty zone: 103.100.IN-ADDR.ARPA
+automatic empty zone: 104.100.IN-ADDR.ARPA
+automatic empty zone: 105.100.IN-ADDR.ARPA
+automatic empty zone: 106.100.IN-ADDR.ARPA
+automatic empty zone: 107.100.IN-ADDR.ARPA
+automatic empty zone: 108.100.IN-ADDR.ARPA
+automatic empty zone: 109.100.IN-ADDR.ARPA
+automatic empty zone: 110.100.IN-ADDR.ARPA
+automatic empty zone: 111.100.IN-ADDR.ARPA
+automatic empty zone: 112.100.IN-ADDR.ARPA
+automatic empty zone: 113.100.IN-ADDR.ARPA
+automatic empty zone: 114.100.IN-ADDR.ARPA
+automatic empty zone: 115.100.IN-ADDR.ARPA
+automatic empty zone: 116.100.IN-ADDR.ARPA
+automatic empty zone: 117.100.IN-ADDR.ARPA
+automatic empty zone: 118.100.IN-ADDR.ARPA
+automatic empty zone: 119.100.IN-ADDR.ARPA
+automatic empty zone: 120.100.IN-ADDR.ARPA
+automatic empty zone: 121.100.IN-ADDR.ARPA
+automatic empty zone: 122.100.IN-ADDR.ARPA
+automatic empty zone: 123.100.IN-ADDR.ARPA
+automatic empty zone: 124.100.IN-ADDR.ARPA
+automatic empty zone: 125.100.IN-ADDR.ARPA
+automatic empty zone: 126.100.IN-ADDR.ARPA
+automatic empty zone: 127.100.IN-ADDR.ARPA
+automatic empty zone: 127.IN-ADDR.ARPA
+automatic empty zone: 254.169.IN-ADDR.ARPA
+automatic empty zone: 2.0.192.IN-ADDR.ARPA
+automatic empty zone: 100.51.198.IN-ADDR.ARPA
+automatic empty zone: 113.0.203.IN-ADDR.ARPA
+automatic empty zone: 255.255.255.255.IN-ADDR.ARPA
+automatic empty zone: 0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.IP6.ARPA
+automatic empty zone: D.F.IP6.ARPA
+automatic empty zone: 8.E.F.IP6.ARPA
+automatic empty zone: 9.E.F.IP6.ARPA
+automatic empty zone: A.E.F.IP6.ARPA
+automatic empty zone: B.E.F.IP6.ARPA
+automatic empty zone: 8.B.D.0.1.0.0.2.IP6.ARPA
+automatic empty zone: EMPTY.AS112.ARPA
+automatic empty zone: HOME.ARPA
+reloading configuration succeeded
+reloading zones succeeded
+resolver priming query complete
+managed-keys-zone: Unable to fetch DNSKEY set '.': failure
+zone example.com/IN: zone serial (11) unchanged. zone may fail to transfer to slaves.
+zone example.com/IN: loaded serial 11
+all zones loaded
+zone example.com/IN: sending notifies (serial 11)
+running
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.10.20#53
+no longer listening on 172.16.6.218#53
+no longer listening on ::1#53
+no longer listening on fe80::a10c:6fc8:688:d988%2#53
+no longer listening on fe80::52c8:74f4:1bf0:5b33%3#53
+shutting down
+stopping command channel on 192.168.10.20#953
+exiting
+managed-keys-zone: loaded serial 20
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 10.168.192.in-addr.arpa/IN: loaded serial 10
+zone 10.168.192.in-addr.arpa/IN: sending notifies (serial 10)
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone example.com/IN: loaded serial 11
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+zone example.com/IN: sending notifies (serial 11)
+resolver priming query complete
+managed-keys-zone: Unable to fetch DNSKEY set '.': failure
+client @0x7f45ac01e3e8 192.168.10.20#53010: updating zone 'example.com/IN': adding an RR at 'test10.example.com' A 192.168.10.20
+zone example.com/IN: sending notifies (serial 12)
+client @0x7f45baad0998 192.168.10.30#50867 (example.com): transfer of 'example.com/IN': IXFR started (serial 11 -> 12)
+client @0x7f45baad0998 192.168.10.30#50867 (example.com): transfer of 'example.com/IN': IXFR ended: 1 messages, 5 records, 205 bytes, 0.001 secs (205000 bytes/sec) (serial 12)
+client @0x7f45baad0998 192.168.10.30#33001 (example.com): transfer of 'example.com/IN': AXFR started (serial 12)
+client @0x7f45baad0998 192.168.10.30#33001 (example.com): transfer of 'example.com/IN': AXFR ended: 1 messages, 18 records, 414 bytes, 0.001 secs (414000 bytes/sec) (serial 12)
+client @0x7f458c000cc8 192.168.10.30#43905: updating zone 'example.com/IN': adding an RR at 'test11.example.com' A 192.168.10.20
+zone example.com/IN: sending notifies (serial 13)
+client @0x7f45baad0998 192.168.10.30#45425 (example.com): transfer of 'example.com/IN': IXFR started (serial 12 -> 13)
+client @0x7f45baad0998 192.168.10.30#45425 (example.com): transfer of 'example.com/IN': IXFR ended: 1 messages, 5 records, 205 bytes, 0.001 secs (205000 bytes/sec) (serial 13)
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.10.20#53
+no longer listening on 172.16.6.218#53
+no longer listening on ::1#53
+no longer listening on fe80::a10c:6fc8:688:d988%2#53
+no longer listening on fe80::52c8:74f4:1bf0:5b33%3#53
+shutting down
+stopping command channel on 192.168.10.20#953
+exiting
+managed-keys-zone: loaded serial 21
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone example.com/IN: loaded serial 13
+zone localhost/IN: loaded serial 0
+zone example.com/IN: sending notifies (serial 13)
+zone 10.168.192.in-addr.arpa/IN: loaded serial 10
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+all zones loaded
+running
+zone 10.168.192.in-addr.arpa/IN: sending notifies (serial 10)
+managed-keys-zone: Unable to fetch DNSKEY set '.': failure
+resolver priming query complete
+client @0x7f51aeae7e48 192.168.10.30#53255 (example.com): zone transfer 'example.com/AXFR/IN' denied
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.10.20#53
+no longer listening on 172.16.6.218#53
+no longer listening on ::1#53
+no longer listening on fe80::a10c:6fc8:688:d988%2#53
+no longer listening on fe80::52c8:74f4:1bf0:5b33%3#53
+shutting down
+stopping command channel on 192.168.10.20#953
+exiting
+managed-keys-zone: loaded serial 22
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone 10.168.192.in-addr.arpa/IN: loaded serial 10
+zone example.com/IN: loaded serial 13
+zone example.com/IN: sending notifies (serial 13)
+zone 10.168.192.in-addr.arpa/IN: sending notifies (serial 10)
+all zones loaded
+running
+managed-keys-zone: Unable to fetch DNSKEY set '.': failure
+resolver priming query complete
+client @0x7fadc00165d8 192.168.10.30#52091 (example.com): transfer of 'example.com/IN': AXFR started (serial 13)
+client @0x7fadc00165d8 192.168.10.30#52091 (example.com): transfer of 'example.com/IN': AXFR ended: 1 messages, 19 records, 437 bytes, 0.001 secs (437000 bytes/sec) (serial 13)
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.10.20#53
+no longer listening on 172.16.6.218#53
+no longer listening on ::1#53
+no longer listening on fe80::a10c:6fc8:688:d988%2#53
+no longer listening on fe80::52c8:74f4:1bf0:5b33%3#53
+shutting down
+stopping command channel on 192.168.10.20#953
+exiting
+managed-keys-zone: loaded serial 23
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone example.com/IN: loaded serial 11
+zone localhost.localdomain/IN: loaded serial 0
+zone example.com/IN: sending notifies (serial 11)
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 10.168.192.in-addr.arpa/IN: loaded serial 10
+zone 10.168.192.in-addr.arpa/IN: sending notifies (serial 10)
+all zones loaded
+running
+resolver priming query complete
+managed-keys-zone: Unable to fetch DNSKEY set '.': failure
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.10.20#53
+no longer listening on 172.16.6.218#53
+no longer listening on ::1#53
+no longer listening on fe80::a10c:6fc8:688:d988%2#53
+no longer listening on fe80::52c8:74f4:1bf0:5b33%3#53
+shutting down
+stopping command channel on 192.168.10.20#953
+exiting
+managed-keys-zone: loaded serial 24
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone test.com/IN: loaded serial 10
+zone 10.168.192.in-addr.arpa/IN: loaded serial 10
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone example.com/IN: loaded serial 11
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+managed-keys-zone: Key 38696 for zone . is now trusted (acceptance timer complete)
+no longer listening on fe80::a10c:6fc8:688:d988%2#53
+no longer listening on 192.168.10.20#53
+listening on IPv4 interface ens160, 192.168.10.20#53
+listening on IPv6 interface ens160, fe80::a10c:6fc8:688:d988%2#53
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 172.16.6.218#53
+no longer listening on ::1#53
+no longer listening on fe80::52c8:74f4:1bf0:5b33%3#53
+no longer listening on 192.168.10.20#53
+no longer listening on fe80::a10c:6fc8:688:d988%2#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+exiting
+managed-keys-zone: loaded serial 25
+zone example.com/IN: loaded serial 11
+zone 10.168.192.in-addr.arpa/IN: loaded serial 10
+zone localhost/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+listening on IPv4 interface ens160, 192.168.10.20#53
+listening on IPv4 interface ens192, 172.16.6.218#53
+listening on IPv6 interface ens160, fe80::a10c:6fc8:688:d988%2#53
+listening on IPv6 interface ens192, fe80::52c8:74f4:1bf0:5b33%3#53
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone test.com/IN: loaded serial 10
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+managed-keys-zone: Key 38696 for zone . is now trusted (acceptance timer complete)
